@@ -9,7 +9,7 @@ Final project for Engineering Physics 223.
 ![License](https://img.shields.io/badge/license-NONE-green.svg)
 <br/>
 
-[Follow](https://www.youtube.com/@johnathanalyst?view_as=subscriber?sub_confirmation=1) on YouTube for demos and guides in AI, finance, IoT, software engineering and more.
+[Follow](https://www.youtube.com/@johnathanalyst?sub_confirmation=1) on YouTube for demos and guides in AI, finance, IoT, software engineering and more.
 <br/>
 
 
