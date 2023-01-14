@@ -33,6 +33,7 @@ git clone https://github.com/johnathanalyst/Arduino-Temp.git
 ```
 <br/>
 
+
 ## Usage
 Make a TinkerCAD account and create a new circuit. Import the ".brd" file into your project and run the simulation. Use the sliders to adjust the temperature for each circuit and see the response in the Serial Monitor (lower-right), and from the LEDs.
 
@@ -42,17 +43,17 @@ Enjoy!
 
 <br/>
 <p align="center">
-<img src='https://github.com/johnathanalyst/Arduino-Temp/blob/main/imgs/analog-temp-circuit.png' alt='Analog Circuit'/>
+	<img src='https://github.com/johnathanalyst/Arduino-Temp/blob/main/imgs/analog-temp-circuit.jpg' alt='Analog Circuit'/>
 </p><br/>
 
 <p align="center">
-<img src='https://github.com/johnathanalyst/Arduino-Temp/blob/main/imgs/digital-temp-circuit.png' alt='Digital Circuit'/>
+	<img src='https://github.com/johnathanalyst/Arduino-Temp/blob/main/imgs/digital-temp-circuit.jpg' alt='Digital Circuit'/>
 </p>
 <br/>
 
 
 ## Authors
-* **Johnathan Chivington:** [GitHub](https://github.com/johnathanalyst)
+* **Johnathan Chivington:** [YouTube](https://youtube.com/@johnathanalyst), [Email](me@johnathanalyst.com)
 
 ## Contributing
 Not currently accepting outside contributors, but feel free to use as you wish.
