@@ -1,5 +1,5 @@
 <p align="center">
-	<img width='600' src='https://github.com/johnathanalyst/Arduino-Temp/blob/main/imgs/cover-slide.png' alt='Cover Slide'/>
+	<img src='https://github.com/johnathanalyst/Arduino-Temp/blob/main/imgs/cover-slide.png' alt='Cover Slide'/>
 </p>
 
 # Arduino-Temp
