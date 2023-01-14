@@ -4,9 +4,10 @@
 
 # Arduino-Temp
 Final project for Engineering Physics 223.
+
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-green.svg)
-<br/><br/><br/>
+<br/><br/>
 
 # Prompt
 The Analog Devices TMP36 Temperature Sensor is the most common digital device used to measure the ambient temperature of a system. However, what the device actually outputs is a voltage. Fortunately, the output voltage is proportional to the temperature, so it’s a matter of calibrating the voltage to conform with the temperature.
@@ -17,7 +18,7 @@ Write the Arduino code that receives input from the TMP36 sensor and outputs the
  * The analogRead command receives input from the sensor and converts it into a variable (note the sensor output is connected to Arduino analog port 0):
 float voltage = analogRead(A0);
  * Add a 1 second delay (delay(1000)) between readings and limit the number of readings, unless you want to be overwhelmed by data. Note the delay value is in milliseconds.
-
+<br/>
 
 Email me@johnathanalyst.com with questions.
 
@@ -25,6 +26,7 @@ Enjoy!
 
 ## Prerequisites
 * web browser
+* TinkerCAD account
 <br/><br/>
 
 
