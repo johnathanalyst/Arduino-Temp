@@ -7,7 +7,11 @@ Final project for Engineering Physics 223.
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-green.svg)
-<br/><br/>
+<br/>
+
+[Follow](https://www.youtube.com/@johnathanalyst?view_as=subscriber?sub_confirmation=1) on YouTube for demos and guides in AI, finance, IoT, software engineering and more.
+<br/>
+
 
 # Prompt
 The Analog Devices TMP36 Temperature Sensor is the most common digital device used to measure the ambient temperature of a system. However, what the device actually outputs is a voltage. Fortunately, the output voltage is proportional to the temperature, so it’s a matter of calibrating the voltage to conform with the temperature.
