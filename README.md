@@ -20,9 +20,6 @@ float voltage = analogRead(A0);
  * Add a 1 second delay (delay(1000)) between readings and limit the number of readings, unless you want to be overwhelmed by data. Note the delay value is in milliseconds.
 <br/>
 
-Email me@johnathanalyst.com with questions.
-
-Enjoy!
 
 ## Prerequisites
 * web browser
@@ -39,7 +36,9 @@ git clone https://github.com/johnathanalyst/Arduino-Temp.git
 ## Usage
 Make a TinkerCAD account and create a new circuit. Import the ".brd" file into your project and run the simulation. Use the sliders to adjust the temperature for each circuit and see the response in the Serial Monitor (lower-right), and from the LEDs.
 
-Feel free to ask me questions on [GitHub](https://github.com/johnathanalyst)
+Feel free to ask me questions on [GitHub](https://github.com/johnathanalyst) or at me@johnathanalyst.com.
+
+Enjoy!
 
 <br/>
 <p align="center">
