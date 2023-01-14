@@ -4,7 +4,11 @@
 
 # Arduino-Temp
 Final project for Engineering Physics 223.
+![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
+![License](https://img.shields.io/badge/license-NONE-green.svg)
+<br/><br/><br/>
 
+# Prompt
 The Analog Devices TMP36 Temperature Sensor is the most common digital device used to measure the ambient temperature of a system. However, what the device actually outputs is a voltage. Fortunately, the output voltage is proportional to the temperature, so it’s a matter of calibrating the voltage to conform with the temperature.
 
 Write the Arduino code that receives input from the TMP36 sensor and outputs the Celsius temperature to the serial monitor using the formula you determined above. Some tips:
@@ -18,10 +22,6 @@ float voltage = analogRead(A0);
 Email me@johnathanalyst.com with questions.
 
 Enjoy!
-
-![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
-![License](https://img.shields.io/badge/license-NONE-green.svg)
-<br/><br/><br/>
 
 ## Prerequisites
 * web browser
